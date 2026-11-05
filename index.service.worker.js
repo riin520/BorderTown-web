@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1793864017|8472545217';
+const CACHE_VERSION = '1793864892|9346739385';
 /** @type {string} */
 const CACHE_PREFIX = 'BorderTown-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
